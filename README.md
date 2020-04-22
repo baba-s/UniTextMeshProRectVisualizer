@@ -1,12 +1,12 @@
-# TMP_RectVisualizer
+# Uni Text Mesh Pro Rect Visualizer
 
-The size of Text and TextMesh Pro can be visualized on game screen.
+Text や TextMesh Pro のサイズをゲーム画面に可視化できるパッケージ
 
-## Example
+## 使用例
 
-![](https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20190106/20190106120252.png)
+![20190106120252](https://user-images.githubusercontent.com/6134875/79988512-b3fa6780-84e9-11ea-8f71-fbe374307db0.png)
 
-## Usage
+## 使い方
 
 ```cs
 TMP_RectVisualizer.Show
